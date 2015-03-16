@@ -1,15 +1,8 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 动画 - Animations 
+Apple Watch 拥有美丽而微妙的动画,它使用户体验更加动态更加迷人。适当的动画可以:
+* 通信并提供反馈
+* 帮助人们可视化他们的操作结果
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+**使用静态图像序列创建预渲染动画。**在 WatchKit 中保存好动画程序包以便可以快速呈现给用户。动画包也为你提供高帧率和流畅的动画。从WatchKit动态扩展中创建动画,将其转移到 Apple Watch 在回放可以开始之前添加了一个延迟。
 
-## 目的
-
-翻译 Apple 官方文档，目录见文件「TOC.md」
-
-## 操作示例
-
-https://github.com/JikeXueyuanWiki/guide
-
-
-
+**如果你想要回放控制动画，使用图像或一组对象。**大多数界面的对象在一个无限的循环中显示动画图像序列。只有图像和组对象提供了一种以编程方式启动和停止的动画。
