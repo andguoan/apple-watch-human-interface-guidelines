@@ -1,15 +1,7 @@
-# Apple Watch Human Interface Guidelines 中文版
+# 品牌 - Branding
 
-Apple 官方文档（英文原版）：
-https://developer.apple.com/library/prerelease/ios/documentation/UserExperience/Conceptual/WatchHumanInterfaceGuidelines/index.html
+让你的应用程序体现出品牌有很多方法,包括图标、颜色、自定义按钮,自定义字体,和使用重复的文本。当设计你应用程序的图形元素时,要保证每个自定义元素应该看起来不错并且能独立运行起来，但它也应该与程序中的其他元素融为一体，无论是自定义元素还是标准元素。
 
-## 目的
+**用一个雅致而低调的方式凝聚品牌价值。**人们使用你的应用程序来完成工作或娱乐,他们不想觉得是在被迫观看广告。最好的用户体验是通过你所选择的字体,颜色,和图像悄悄提醒用户你的的品牌标识。
 
-翻译 Apple 官方文档，目录见文件「TOC.md」
-
-## 操作示例
-
-https://github.com/JikeXueyuanWiki/guide
-
-
-
+**打消在你的应用程序中展示商标的想法吧。** Apple Watch 上的空间十分宝贵,每次展示 logo 都会占用内容的空间。并且在应用程序中展示 logo 的目的不同于在网页中：很多时候，用户会进入某个陌生人的网页，但用户在打开应用程序之前通常会查看应用程序的图标。
